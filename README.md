@@ -14,3 +14,17 @@ Del lado izquierdo en la parte de arriba se encuentra el botón de inicio y el t
 Abajo de estos botones se ven los diferentes sonidos que tiene el volca sample, al activarlos en un lugar determinado harán que suenen en el tiempo indicado.
 
 Cada sonido está mapaeado al canal MIDI correspondiente (del canal 1 al 10).
+
+# Versión Volca
+
+Esta versión funciona de una manera similar a la anterior, pero tiene la diferencia en que podemos escoger diferentes figuras rítmicas para cada tiempo.
+
+![Screen Shot 2022-03-28 at 12 30 14](https://user-images.githubusercontent.com/10868602/160463587-ed845334-6cb4-43ff-91a6-aa09e7b8c678.png)
+
+De igual forma seleccionamos qué partes de la secuencia queremos que suene.
+
+![Screen Shot 2022-03-28 at 12 30 22](https://user-images.githubusercontent.com/10868602/160463713-f47415d6-71d6-4e01-a757-002e930da27e.png)
+
+Para asignar las figuras en cada tiempo solamente tenemos que poner el número para cada una, el 1 es una negra, el 2 son corcheas, el 3 tresillos, así hasta cinquillos.
+
+Ahora bien, es importante mencionar que si seleccionamos por ejemplo el número 2, solamente van a escucharse las primeras dos casillas en ese tiempo y el programa ignorará las siguientes 3.
