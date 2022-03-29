@@ -1,7 +1,7 @@
 # VolcaSampleMIDISeq
 Secuenciador MIDI para volcasample
 
-Dentro de la carpeta de "Volca" se encuentra una versión inestable del secuenciador con la capacidad de hacer diferentes patrones rítmicos, desde negras hasya cinquillos en cada tiempo de la secuencia.
+Dentro de la carpeta de "Volca" se encuentra una versión inestable del secuenciador con la capacidad de hacer diferentes patrones rítmicos, desde negras hasta cinquillos en cada tiempo de la secuencia.
 
 La carpeta de "16Step_V1" contiene una versión donde solamente está secuenciando 16 notas (4 semicorcheas), por lo tanto es una versión mucho más fácil de utilizar, aparte de que es muy estable al momento de correr.
 
